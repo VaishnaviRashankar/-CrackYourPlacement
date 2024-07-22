@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
