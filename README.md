@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
