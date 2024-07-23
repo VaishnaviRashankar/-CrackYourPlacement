@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -99,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
