@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -141,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+## Math
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
