@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
