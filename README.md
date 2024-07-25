@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
