@@ -169,6 +169,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -192,6 +193,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
@@ -204,6 +206,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
