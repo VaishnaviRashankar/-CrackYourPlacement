@@ -204,6 +204,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -219,12 +220,14 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 ## String Matching
 |  |
@@ -250,4 +253,8 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
