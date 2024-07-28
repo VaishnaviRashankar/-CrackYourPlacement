@@ -9,6 +9,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0015-3sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0068-text-justification) |
@@ -101,6 +102,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -191,6 +193,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
