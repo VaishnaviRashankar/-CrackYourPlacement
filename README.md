@@ -251,12 +251,14 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -271,10 +273,15 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
