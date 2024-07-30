@@ -151,6 +151,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -160,6 +161,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -257,6 +259,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -267,6 +270,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -286,6 +290,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
