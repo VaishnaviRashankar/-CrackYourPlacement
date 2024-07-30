@@ -255,6 +255,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -262,6 +263,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -278,6 +280,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
