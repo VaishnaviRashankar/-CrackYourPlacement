@@ -270,6 +270,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
@@ -285,6 +286,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
@@ -308,6 +310,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
@@ -322,6 +325,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
