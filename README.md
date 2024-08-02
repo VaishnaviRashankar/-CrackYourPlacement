@@ -46,6 +46,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -238,6 +239,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
@@ -269,6 +271,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -364,6 +367,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
