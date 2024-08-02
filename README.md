@@ -70,6 +70,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0012-integer-to-roman](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -358,6 +359,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0002-add-two-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
