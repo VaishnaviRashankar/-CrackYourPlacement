@@ -204,6 +204,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0067-add-binary) |
@@ -264,6 +265,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -353,6 +355,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
