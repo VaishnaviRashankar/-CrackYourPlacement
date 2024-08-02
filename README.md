@@ -215,6 +215,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Design
@@ -244,6 +245,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -364,4 +366,5 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
