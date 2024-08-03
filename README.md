@@ -28,6 +28,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -105,6 +106,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -115,6 +117,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
@@ -189,23 +192,27 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
