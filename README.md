@@ -50,6 +50,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0088-merge-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -90,6 +91,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0018-4sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,6 +99,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Counting
@@ -186,6 +189,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -375,6 +379,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0138-copy-list-with-random-pointer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
