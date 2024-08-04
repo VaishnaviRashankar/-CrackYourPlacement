@@ -184,6 +184,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
