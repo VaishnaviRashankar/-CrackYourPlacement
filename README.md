@@ -189,6 +189,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
@@ -291,6 +292,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
@@ -320,6 +322,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0206-reverse-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
