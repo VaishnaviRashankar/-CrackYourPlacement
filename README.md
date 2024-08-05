@@ -75,6 +75,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -336,6 +337,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -354,6 +356,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Iterator
 |  |
@@ -434,4 +437,8 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+## Graph
+|  |
+| ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
