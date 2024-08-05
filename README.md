@@ -81,6 +81,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -468,10 +469,15 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
