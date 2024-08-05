@@ -94,6 +94,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -370,6 +371,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Iterator
@@ -460,10 +462,12 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
