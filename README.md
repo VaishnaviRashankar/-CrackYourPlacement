@@ -42,6 +42,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Two Pointers
@@ -79,6 +80,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 ## Greedy
 |  |
 | ------- |
@@ -429,6 +432,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Linked List
 |  |
