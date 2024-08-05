@@ -371,6 +371,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Iterator
 |  |
 | ------- |
@@ -426,6 +427,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Linked List
 |  |
 | ------- |
@@ -458,8 +460,10 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
