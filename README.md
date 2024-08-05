@@ -24,6 +24,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
@@ -140,6 +141,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -352,6 +354,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0110-balanced-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
@@ -412,6 +415,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -447,4 +451,8 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
