@@ -193,6 +193,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0131-palindrome-partitioning](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -273,6 +274,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
@@ -320,6 +322,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -365,6 +368,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
