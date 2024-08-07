@@ -78,6 +78,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
@@ -214,6 +215,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
