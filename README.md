@@ -31,6 +31,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
@@ -479,6 +481,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
