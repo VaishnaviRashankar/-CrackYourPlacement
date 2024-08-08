@@ -58,6 +58,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -114,6 +115,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0972-knight-dialer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0972-knight-dialer) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -221,6 +223,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
