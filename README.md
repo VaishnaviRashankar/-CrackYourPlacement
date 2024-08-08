@@ -12,6 +12,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -170,6 +172,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
