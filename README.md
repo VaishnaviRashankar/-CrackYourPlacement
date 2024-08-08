@@ -40,6 +40,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -99,6 +100,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
