@@ -152,6 +152,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Sorting
 |  |
@@ -168,6 +169,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +230,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Prefix Sum
 |  |
@@ -287,6 +290,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Backtracking
 |  |
 | ------- |
