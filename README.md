@@ -37,6 +37,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
@@ -107,6 +108,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
