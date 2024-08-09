@@ -19,6 +19,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -95,6 +96,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -202,6 +204,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
@@ -379,6 +382,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0042-trapping-rain-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -400,6 +404,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
