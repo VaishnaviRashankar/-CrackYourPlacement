@@ -142,6 +142,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0424-longest-repeating-character-replacement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -240,6 +241,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0076-minimum-window-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
@@ -276,6 +278,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0730-count-different-palindromic-subsequences](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
