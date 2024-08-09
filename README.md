@@ -119,6 +119,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0740-delete-and-earn](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0923-super-egg-drop](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0972-knight-dialer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -190,6 +191,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0923-super-egg-drop](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -358,6 +360,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0923-super-egg-drop](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Design
 |  |
