@@ -19,6 +19,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0068-text-justification](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -207,6 +208,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
@@ -309,6 +311,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
