@@ -46,6 +46,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -114,6 +115,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -166,6 +168,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -231,6 +234,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
