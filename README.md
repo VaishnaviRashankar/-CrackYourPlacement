@@ -67,6 +67,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0971-shortest-bridge](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1117-as-far-from-land-as-possible](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
@@ -188,6 +189,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -202,6 +204,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -385,6 +388,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Queue
@@ -411,6 +415,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0923-super-egg-drop](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Design
 |  |
@@ -669,6 +674,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -684,6 +690,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Biconnected Component
 |  |
