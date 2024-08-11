@@ -526,6 +526,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0975-range-sum-of-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Iterator
 |  |
@@ -626,6 +627,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0684-redundant-connection](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Union Find
@@ -664,4 +666,8 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
