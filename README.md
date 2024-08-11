@@ -145,6 +145,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0037-sudoku-solver](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
@@ -291,6 +292,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0079-word-search](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
@@ -579,6 +581,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
