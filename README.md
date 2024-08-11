@@ -117,6 +117,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0131-palindrome-partitioning](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
@@ -154,6 +155,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0160-intersection-of-two-linked-lists](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -371,6 +373,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -393,6 +396,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
