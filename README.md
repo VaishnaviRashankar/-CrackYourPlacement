@@ -74,6 +74,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-maximum-number-of-visible-points](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [1762-furthest-building-you-can-reach](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Two Pointers
@@ -255,6 +256,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1762-furthest-building-you-can-reach](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Prefix Sum
@@ -379,6 +381,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1622-max-value-of-equation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1762-furthest-building-you-can-reach](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Queue
 |  |
 | ------- |
