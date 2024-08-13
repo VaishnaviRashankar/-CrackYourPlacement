@@ -50,6 +50,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -128,6 +129,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
@@ -222,6 +224,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -262,6 +265,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -275,6 +279,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
