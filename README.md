@@ -48,6 +48,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -319,6 +320,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -539,6 +541,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -612,6 +615,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0127-word-ladder](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0684-redundant-connection) |
@@ -654,6 +658,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0863-sum-of-distances-in-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -664,6 +669,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
@@ -672,6 +678,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bucket Sort
 |  |
