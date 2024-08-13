@@ -8,6 +8,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
@@ -219,6 +220,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
