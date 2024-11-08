@@ -14,6 +14,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0047-permutations-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -112,6 +113,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -205,6 +207,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
