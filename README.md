@@ -5,6 +5,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0018-4sum) |
@@ -207,6 +208,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
@@ -226,6 +228,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
