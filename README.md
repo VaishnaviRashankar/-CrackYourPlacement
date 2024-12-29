@@ -89,6 +89,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0018-4sum) |
@@ -112,6 +113,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
@@ -314,6 +316,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
