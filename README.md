@@ -425,6 +425,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0062-unique-paths) |
