@@ -38,6 +38,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -293,6 +294,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
