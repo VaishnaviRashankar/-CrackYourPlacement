@@ -1,22 +1,20 @@
-#include <vector>
-#include <algorithm> // For std::min and std::max
-
 class Solution {
 public:
-    int maxArea(std::vector<int>& height) {
-        int left = 0;
-        int right = height.size() - 1;
-        int maxArea = 0;
-        
-        while (left < right) {
-            int area = std::min(height[left], height[right]) * (right - left);
-            maxArea = std::max(area, maxArea);
-            if (height[left] < height[right])
-                left++;
+    int maxArea(vector<int>& height) {
+        int ans = 0;
+        int l = 0;
+        int r = height.size()-1;
+
+        while(l<r)
+        {
+            const int minHeight = min(height[l],height[r]);
+            ans = max(ans,minHeight * (r-l));
+            if(height[l] < height[r])
+              ++l;
             else
-                right--;
+              --r;
         }
+        return ans;
         
-        return maxArea;
     }
 };
