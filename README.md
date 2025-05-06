@@ -258,6 +258,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0090-subsets-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0526-beautiful-arrangement](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 ## Matrix
 |  |
@@ -446,6 +447,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0371-sum-of-two-integers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0445-add-two-numbers-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
