@@ -42,6 +42,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0221-maximal-square](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -179,6 +180,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0208-implement-trie-prefix-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -204,6 +206,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
@@ -241,6 +244,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0004-median-of-two-sorted-arrays](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -258,6 +262,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0078-subsets](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
@@ -448,6 +453,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0189-rotate-array](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
