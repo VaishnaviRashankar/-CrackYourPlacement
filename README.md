@@ -125,6 +125,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0055-jump-game](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
@@ -449,6 +450,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0048-rotate-image](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
@@ -766,5 +768,6 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0546-remove-boxes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
