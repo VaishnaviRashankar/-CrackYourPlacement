@@ -32,6 +32,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -182,6 +183,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0073-set-matrix-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0139-word-break) |
@@ -743,6 +745,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0684-redundant-connection) |
