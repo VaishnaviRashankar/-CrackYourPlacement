@@ -9,52 +9,63 @@
  * };
  */
 class Solution {
- public:
-  void reorderList(ListNode* head) {
-    if (!head || !head->next)
-      return;
-
-    ListNode* mid = findMid(head);
-    ListNode* reversed = reverse(mid);
-    merge(head, reversed);
-  }
-
- private:
-  ListNode* findMid(ListNode* head) {
-    ListNode* prev = nullptr;
-    ListNode* slow = head;
-    ListNode* fast = head;
-
-    while (fast != nullptr && fast->next != nullptr) {
-      prev = slow;
-      slow = slow->next;
-      fast = fast->next->next;
+public:
+    
+       ListNode*middle(ListNode*head)
+    {
+        ListNode*slow = head;
+        ListNode*fast = head;
+        
+        while(fast->next and fast->next->next){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        
+        return slow;
     }
-    prev->next = nullptr;
-
-    return slow;
-  }
-
-  ListNode* reverse(ListNode* head) {
-    ListNode* prev = nullptr;
-    ListNode* curr = head;
-
-    while (curr) {
-      ListNode* next = curr->next;
-      curr->next = prev;
-      prev = curr;
-      curr = next;
+    
+    ListNode*reverse(ListNode*head){
+        
+        ListNode*curr = head;
+        ListNode*prev = NULL;
+        ListNode*forw = NULL;
+        
+        while(curr){
+            forw = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = forw;
+        }
+        
+        return prev;
     }
-
-    return prev;
-  }
-
-  void merge(ListNode* l1, ListNode* l2) {
-    while (l2) {
-      ListNode* next = l1->next;
-      l1->next = l2;
-      l1 = l2;
-      l2 = next;
+    
+    void reorderList(ListNode* head) {
+        
+        if(head==NULL or head->next==NULL){
+            return;
+        }
+        
+        ListNode*mid = middle(head);
+        ListNode*k = reverse(mid->next);
+        mid->next = NULL;
+        
+        ListNode*c1 = head;
+        ListNode*c2 = k;
+        ListNode*f1 = NULL;
+        ListNode*f2 = NULL;
+        
+        while(c1!=NULL and c2!=NULL)
+        {
+            f1 = c1->next;
+            f2 = c2->next;
+            
+            c1->next = c2;
+            c2->next = f1;
+            
+            c1 = f1;
+            c2 = f2;
+        }
+     
     }
-  }
 };
