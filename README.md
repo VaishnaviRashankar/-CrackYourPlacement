@@ -120,6 +120,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0234-palindrome-linked-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0680-valid-palindrome-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -221,6 +222,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
@@ -444,6 +446,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -493,6 +496,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0211-design-add-and-search-words-data-structure](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
@@ -635,6 +639,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 ## Binary Tree
 |  |
