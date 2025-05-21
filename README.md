@@ -196,6 +196,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
@@ -223,6 +224,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0148-sort-list](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -380,6 +382,7 @@ HEllo ! A collection of LeetCode questions to ace the coding interview! - Create
 | [0208-implement-trie-prefix-tree](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/VaishnaviRashankar/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
